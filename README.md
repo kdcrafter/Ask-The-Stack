@@ -14,6 +14,6 @@ Using Alexa to actually connect to the Stack Overflow website and read the webpa
  # Authors
  
  Jacob White
- Kurt Dressel
+ Kurtis Dressel
  
  Created during BoilerMake 2017
